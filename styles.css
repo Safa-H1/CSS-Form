@@ -1,0 +1,48 @@
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px black;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=password], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px black;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+input[type=address], select {
+  width: 100%;
+  padding: 15px 20px;
+  margin: 17px 0;
+  display: inline-block;
+  border: 1px black;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=Submit] {
+  width: 100%;
+  background-color: white;
+  color: black;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=Submit]:hover {
+  background-color: lavender;
+}
+
+div {
+  border-radius: 5px;
+  background-color: lavender;
+  padding: 20px;
+}
